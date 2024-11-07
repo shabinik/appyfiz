@@ -1,0 +1,151 @@
+#div1{
+    position:sticky;
+    top: 1px;
+    background-color: rgb(15, 17, 40);
+    width: 100%;
+    height: 80px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    z-index: 1;
+
+}
+#div1 img{
+    padding-left: 30px;
+    
+}
+#ul1{
+    display: inline;
+    margin-right: 70px;
+}
+#ul1 li{
+    display: inline;
+    margin-left: 30px;
+    color: white;
+    font-size:large;
+    
+}
+
+#ul1 li:hover{
+    color: red;
+    cursor: pointer;
+}
+
+#div2{
+    width: 100%;
+    height: 600px;
+}
+#div3{
+    width:100%;
+    height: 800px;
+
+
+}
+#black{
+    position: relative;
+    background-color: black;
+    width: 50%;
+    height: 800px;
+    float: left;
+    
+
+}
+
+
+#img1{
+    position: absolute;
+    bottom: 130px;
+    left: 280px;
+    height: 500px;
+    width: 190px;
+
+    
+
+}
+    
+
+
+
+#black h1{
+    color: white;
+    position:relative;
+    top: 250px;
+    left: 230px;
+    font-size: 70px;
+
+}
+#fizz{
+    margin-left: 80px;
+    margin-top: 0px;
+}
+#white{
+    float: left;
+    background-color: white;
+    height: 800px;
+    width: 50%;
+
+}
+#white p{
+    color: black;
+    font-size:25px;
+    padding: 80px 80px 10px 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#white i{
+    padding-right:10px;
+}
+#i{
+   padding-left:80px;
+   padding-top:0px;
+}
+#div4{
+    height: 800px;
+    width: 100%;
+
+}
+    
+#div5{
+    background-color: white;
+    height: 220px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+#p1{
+    padding-top: 25px;
+    padding-left: 70px;
+    color: black;
+    font-size: small;
+    
+
+}
+#p2{
+    padding-top: 25px;
+    color: black;
+    font-size: small;
+}
+#p2 i{
+    font-size: medium;
+    font-weight: bold;
+}
+#p3{
+    padding-top: 25px;
+    padding-right: 150px;
+    color:black;
+    font-size: small;
+}
+#p3 i{
+    font-size: medium;
+    font-weight: bold;
+}
+#p2 i:hover{
+    color: red;
+    cursor: pointer;
+}
+#p3 i:hover{
+    color: red;
+    cursor: pointer;
+}
+
+   
